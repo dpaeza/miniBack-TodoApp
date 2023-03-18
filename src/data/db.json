@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "usser": "dpaeza",
+      "password": "1234",
+      "profile_image": "https://static.vecteezy.com/system/resources/previews/002/517/990/non_2x/woman-wearing-glasses-character-avatar-in-cartoon-flat-style-round-icon-vector.jpg"
+
+    }
+  ],
+  "to_do_lists": [
+    {
+      "id": 1,
+      "id_user": 1,
+      "list" : [
+        {
+          "to_do": "Sacar la basura",
+          "status": "pending"
+        },
+        {
+          "to_do": "Bañar a las perritas",
+          "status": "completed"
+        },
+        {
+          "to_do": "Lavar platos",
+          "status": "pending"
+        }
+      ]
+    }
+  ]
+}
